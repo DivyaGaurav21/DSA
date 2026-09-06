@@ -19,13 +19,14 @@ The goal is to build strong problem-solving skills, understand common DSA patter
 | 07 | 🚶 Queue | ⬜ Not Started | 0 |
 | 08 | 🏔️ Heap / Priority Queue | ⬜ Not Started | 0 |
 | 09 | 🌳 Trees | ⬜ Not Started | 0 |
-| 10 | 🔍 Binary Search | ⬜ Not Started | 0 |
-| 11 | 🕸️ Graphs | ⬜ Not Started | 0 |
-| 12 | ⚡ Dynamic Programming | ⬜ Not Started | 0 |
-| 13 | 🎯 Greedy | ⬜ Not Started | 0 |
-| 14 | ↔️ Two Pointers | ⬜ Not Started | 0 |
-| 15 | 🪟 Sliding Window | ⬜ Not Started | 0 |
-| 16 | 🔙 Backtracking | ⬜ Not Started | 0 |
+| 10 | 🌳 BST | ⬜ In Progress | 0 |
+| 11 | 🔍 Binary Search | ⬜ Not Started | 0 |
+| 12 | 🕸️ Graphs | ⬜ Not Started | 0 |
+| 13 | ⚡ Dynamic Programming | ⬜ Not Started | 0 |
+| 14 | 🎯 Greedy | ⬜ Not Started | 0 |
+| 15 | ↔️ Two Pointers | ⬜ Not Started | 0 |
+| 16 | 🪟 Sliding Window | ⬜ Not Started | 0 |
+| 17 | 🔙 Backtracking | ⬜ Not Started | 0 |
 
 ---
 
