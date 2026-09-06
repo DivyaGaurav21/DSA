@@ -31,10 +31,16 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DivyaGaurav21/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/DivyaGaurav21/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DivyaGaurav21/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/DivyaGaurav21/DSA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/DivyaGaurav21/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
 
 ---
