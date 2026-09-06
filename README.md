@@ -531,6 +531,7 @@ Hard       → Master Advanced Patterns
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DivyaGaurav21/DSA/tree/master/0136-single-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivyaGaurav21/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -540,4 +541,8 @@ Hard       → Master Advanced Patterns
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivyaGaurav21/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/DivyaGaurav21/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
