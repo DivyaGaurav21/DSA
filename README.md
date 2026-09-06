@@ -26,7 +26,15 @@ I use this repository to improve problem-solving skills, learn common DSA patter
 Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 
 <!---LeetCode Topics Start-->
-
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DivyaGaurav21/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DivyaGaurav21/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
 
 ---
