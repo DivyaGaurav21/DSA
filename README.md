@@ -509,3 +509,23 @@ Hard       → Master Advanced Patterns
 ### 🚀 Keep Solving. Keep Learning. Keep Improving.
 
 > **One problem at a time. One pattern at a time.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DivyaGaurav21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DivyaGaurav21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DivyaGaurav21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DivyaGaurav21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+<!---LeetCode Topics End-->
