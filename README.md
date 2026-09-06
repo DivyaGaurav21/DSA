@@ -2,48 +2,36 @@
 
 My **Data Structures & Algorithms** practice repository using [LeetCode](https://leetcode.com/).
 
-I use this repository to practice DSA patterns and prepare for **Frontend / Full Stack / SDE interviews**.
+I use this repository to improve problem-solving skills, learn common DSA patterns, and prepare for **Frontend / Full Stack / SDE interviews**.
 
 ---
 
 ## 📊 Progress
 
-| Metric | Count |
+<!-- LEETCODE_STATS_START -->
+
+| Difficulty | Solved |
 |---|---:|
-| 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
+| 🟢 Easy | 1 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| 📚 Total Solved | 0 |
+| **📚 Total** | **2** |
+
+<!-- LEETCODE_STATS_END -->
 
 ---
 
-## 🧠 Topics
+## 🧠 LeetCode Topics
 
-The problems below are automatically organized by **LeetCode topics** using LeetHub V2.
+Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-|  |
-| ------- |
-| [0144-binary-tree-preorder-traversal](https://github.com/DivyaGaurav21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
-## Tree
-|  |
-| ------- |
-| [0144-binary-tree-preorder-traversal](https://github.com/DivyaGaurav21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
-## Depth-First Search
-|  |
-| ------- |
-| [0144-binary-tree-preorder-traversal](https://github.com/DivyaGaurav21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
-## Binary Tree
-|  |
-| ------- |
-| [0144-binary-tree-preorder-traversal](https://github.com/DivyaGaurav21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+
 <!---LeetCode Topics End-->
 
 ---
 
-## 🎯 DSA Patterns I'm Practicing
+## 🎯 DSA Patterns
 
 - Arrays
 - Strings
@@ -63,23 +51,21 @@ The problems below are automatically organized by **LeetCode topics** using Leet
 
 ---
 
-## 💡 Approach
-
-For each problem:
+## 💡 Problem-Solving Approach
 
 ```text
 Understand
-   ↓
+    ↓
 Identify Pattern
-   ↓
-Brute Force
-   ↓
+    ↓
+Think Brute Force
+    ↓
 Optimize
-   ↓
+    ↓
 Analyze Complexity
-   ↓
+    ↓
 Code
-   ↓
-Test
-   ↓
+    ↓
+Test Edge Cases
+    ↓
 Review
