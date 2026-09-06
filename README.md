@@ -528,4 +528,16 @@ Hard       → Master Advanced Patterns
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyaGaurav21/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Array
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/DivyaGaurav21/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/DivyaGaurav21/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/DivyaGaurav21/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
