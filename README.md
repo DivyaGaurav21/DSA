@@ -11,9 +11,9 @@ The goal is to build strong problem-solving skills, understand common DSA patter
 | # | Topic | Status | Problems |
 |---|---|---|---:|
 | 01 | 🟢 Arrays | ⬜ In Progress | 0 |
-| 02 | 🔤 Strings | ⬜ Not Started | 0 |
-| 03 | 🧩 Objects / Hashing | ⬜ Not Started | 0 |
-| 04 | 🔁 Recursion | ⬜ Not Started | 0 |
+| 02 | 🔤 Strings | ⬜ In Progress | 0 |
+| 03 | 🧩 Objects / Hashing | ⬜ In Progress | 0 |
+| 04 | 🔁 Recursion | ⬜ In Progress | 0 |
 | 05 | 🔗 Linked List | ⬜ Not Started | 0 |
 | 06 | 📚 Stack | ⬜ Not Started | 0 |
 | 07 | 🚶 Queue | ⬜ Not Started | 0 |
