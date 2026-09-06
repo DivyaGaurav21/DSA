@@ -18,7 +18,7 @@ The goal is to build strong problem-solving skills, understand common DSA patter
 | 06 | 📚 Stack | ⬜ Not Started | 0 |
 | 07 | 🚶 Queue | ⬜ Not Started | 0 |
 | 08 | 🏔️ Heap / Priority Queue | ⬜ Not Started | 0 |
-| 09 | 🌳 Trees | ⬜ Not Started | 0 |
+| 09 | 🌳 Trees | ⬜ In Progress | 0 |
 | 10 | 🌳 BST | ⬜ In Progress | 0 |
 | 11 | 🔍 Binary Search | ⬜ Not Started | 0 |
 | 12 | 🕸️ Graphs | ⬜ Not Started | 0 |
