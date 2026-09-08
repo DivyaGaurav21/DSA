@@ -41,6 +41,10 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/DivyaGaurav21/DSA/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/DivyaGaurav21/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
 
 ---
