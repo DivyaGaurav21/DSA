@@ -8,16 +8,7 @@ I use this repository to improve problem-solving skills, learn common DSA patter
 
 ## 📊 Progress
 
-<!-- LEETCODE_STATS_START -->
 
-| Difficulty | Solved |
-|---|---:|
-| 🟢 Easy | 1 |
-| 🟡 Medium | 1 |
-| 🔴 Hard | 0 |
-| **📚 Total** | **2** |
-
-<!-- LEETCODE_STATS_END -->
 
 ---
 
