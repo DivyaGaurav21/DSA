@@ -23,6 +23,7 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 | ------- |
 | [0001-two-sum](https://github.com/DivyaGaurav21/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/DivyaGaurav21/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/DivyaGaurav21/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,10 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 | ------- |
 | [0007-reverse-integer](https://github.com/DivyaGaurav21/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DivyaGaurav21/DSA/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/DivyaGaurav21/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
 
 ---
