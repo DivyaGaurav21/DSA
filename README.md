@@ -22,6 +22,7 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DivyaGaurav21/DSA/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaGaurav21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/DivyaGaurav21/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/DivyaGaurav21/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -41,7 +42,12 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaGaurav21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DivyaGaurav21/DSA/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaGaurav21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
 
 ---
