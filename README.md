@@ -59,6 +59,18 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DivyaGaurav21/DSA/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DivyaGaurav21/DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DivyaGaurav21/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DivyaGaurav21/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
 
 ---
