@@ -1,58 +1,76 @@
 
 var MyStack = function() {
-    this.q1 = [];
-    this.q2 = [];
+    this.queue = [];
 };
 
-/** 
- * @param {number} x
- * @return {void}
- */
 MyStack.prototype.push = function(x) {
-    this.q1.push(x);
+    this.queue.push(x);
 };
 
-/**
- * @return {number}
- */
 MyStack.prototype.pop = function() {
-    let n = this.q1.length;
+    let n = this.queue.length;
     for(let i = 0; i < n - 1; i++){
-        this.q2.push(this.q1.shift());
+        this.queue.push(this.queue.shift());
     }
-    let lastElement = this.q1.shift();
-
-let temp = this.q1;
-this.q1 = this.q2;
-this.q2 = temp;
-
-return lastElement;
+    return this.queue.shift();
 };
 
-/**
- * @return {number}
- */
 MyStack.prototype.top = function() {
-    let n = this.q1.length;
+    let n = this.queue.length;
     for(let i = 0; i < n - 1; i++){
-        this.q2.push(this.q1.shift());
+        this.queue.push(this.queue.shift());
     }
-    let lastElement = this.q1.shift();
-    this.q2.push(lastElement);
-
-let temp = this.q1;
-this.q1 = this.q2;
-this.q2 = temp;
+    let lastElement = this.queue.shift();
+    this.queue.push(lastElement);
 
 return lastElement; 
 };
 
-/**
- * @return {boolean}
- */
 MyStack.prototype.empty = function() {
-    return this.q1.length === 0;
+    return this.queue.length === 0;
 };
+
+// var MyStack = function() {
+//     this.q1 = [];
+//     this.q2 = [];
+// };
+
+// MyStack.prototype.push = function(x) {
+//     this.q1.push(x);
+// };
+
+// MyStack.prototype.pop = function() {
+//     let n = this.q1.length;
+//     for(let i = 0; i < n - 1; i++){
+//         this.q2.push(this.q1.shift());
+//     }
+//     let lastElement = this.q1.shift();
+
+// let temp = this.q1;
+// this.q1 = this.q2;
+// this.q2 = temp;
+
+// return lastElement;
+// };
+
+// MyStack.prototype.top = function() {
+//     let n = this.q1.length;
+//     for(let i = 0; i < n - 1; i++){
+//         this.q2.push(this.q1.shift());
+//     }
+//     let lastElement = this.q1.shift();
+//     this.q2.push(lastElement);
+
+// let temp = this.q1;
+// this.q1 = this.q2;
+// this.q2 = temp;
+
+// return lastElement; 
+// };
+
+// MyStack.prototype.empty = function() {
+//     return this.q1.length === 0;
+// };
 
 /** 
  * Your MyStack object will be instantiated and called as such:
