@@ -62,6 +62,7 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DivyaGaurav21/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/DivyaGaurav21/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DivyaGaurav21/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -74,6 +75,14 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DivyaGaurav21/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DivyaGaurav21/DSA/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DivyaGaurav21/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DivyaGaurav21/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 ---
