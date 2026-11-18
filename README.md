@@ -31,6 +31,7 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 | ------- |
 | [0001-two-sum](https://github.com/DivyaGaurav21/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/DivyaGaurav21/DSA/tree/master/0217-contains-duplicate) |
+| [1796-second-largest-digit-in-a-string](https://github.com/DivyaGaurav21/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Problems are automatically organized by **LeetCode topics** using LeetHub V2.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaGaurav21/DSA/tree/master/0020-valid-parentheses) |
+| [1796-second-largest-digit-in-a-string](https://github.com/DivyaGaurav21/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
